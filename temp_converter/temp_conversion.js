@@ -16,6 +16,6 @@ function convert(){
         result.textContent = temp + "°C";
     }
     else{
-
+        result.textContent = "select a unit";
     }
 }
